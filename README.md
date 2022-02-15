@@ -6,4 +6,8 @@ Docker manual personal en español
 Abrimos el archivo *CHANGELOG.md*
 
 Subimos la version, actor y los cambios que hemos hecho de la siguiente manera: \
-[1.0.0] | Vazzattacc | Creando la primera version
+## [1.0.0] | Vazzattacc 
+
+### Añadido
+ - Creando la primera version
+### Modificado
